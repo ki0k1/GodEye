@@ -47,7 +47,7 @@ Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and et
     s.dependency 'ASLEye', '~> 1.1.1'
     s.dependency 'CrashEye', '~> 1.1.2'
     s.dependency 'ANREye', '~> 1.1.1'
-    s.dependency 'SystemEye', '~> 0.2.2', :git => 'https://github.com/ki0k1/SystemEye'
+    s.dependency 'SystemEye', '~> 0.2.2', :git => 'https://github.com/ki0k1/SystemEye.git'
     s.dependency 'NetworkEye.swift', '~> 1.1.3'
     s.dependency 'LeakEye', '~> 1.1.3'
 
